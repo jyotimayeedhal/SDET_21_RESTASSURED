@@ -9,7 +9,7 @@ import com.mysql.cj.jdbc.Driver;
 
 /**
  * This class contains generic methods to access database connection
- * @author Chaitra M
+ * @author jyoti
  *
  */
 public class DatabaseUtilitity {

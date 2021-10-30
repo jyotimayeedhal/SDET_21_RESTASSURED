@@ -18,7 +18,7 @@ public class CreateProjectUsingPOJO {
 		port = 8084;
 		
 		//read data thru pojo class
-		ProjectLibrary pLib = new ProjectLibrary("Harish", "SkillRary "+jLib.getRandomNumber(), "Completed", 20);
+		ProjectLibrary pLib = new ProjectLibrary("Yummy", "SkillRary "+jLib.getRandomNumber(), "Completed", 20);
 		
 		//request Specification
 		given()

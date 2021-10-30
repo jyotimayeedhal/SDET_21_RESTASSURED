@@ -15,7 +15,7 @@ public class CreateProject {
 	{
 		//create the json data before request
 		JSONObject jobj=new JSONObject();
-		jobj.put("createdBy", "Chaitra");
+		jobj.put("createdBy", "Jyoti");
 		jobj.put("projectName", "Accenture");
 		jobj.put("status", "Completed");
 		jobj.put("teamSize", 20);

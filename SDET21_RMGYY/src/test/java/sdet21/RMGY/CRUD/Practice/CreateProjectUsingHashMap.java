@@ -14,7 +14,7 @@ public class CreateProjectUsingHashMap {
 	public void createProjectUsingHashMap()
 	{
 		HashMap map = new HashMap();
-		map.put("createdBy", "Pragathi");
+		map.put("createdBy", "Mango");
 		map.put("projectName", "Chrome");
 		map.put("status","Completed");
 		map.put("teamSize", 20);

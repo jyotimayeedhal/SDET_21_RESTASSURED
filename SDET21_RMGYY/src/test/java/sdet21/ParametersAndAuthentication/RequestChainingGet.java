@@ -19,7 +19,7 @@ public class RequestChainingGet {
 		port = 8084;
 		
 		//this is first request to create a project
-		ProjectLibrary pLib = new ProjectLibrary("Nithya", "Ameex "+jLib.getRandomNumber(), "Completed", 50);
+		ProjectLibrary pLib = new ProjectLibrary("sampan", "Ameex "+jLib.getRandomNumber(), "Completed", 50);
 		
 		Response res = given()
 		.contentType(ContentType.JSON)
